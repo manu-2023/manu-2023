@@ -19,14 +19,39 @@
 
 ## 🚀 Skills Badges  
 
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Frontend Development  
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+
+---
+
+### ⚙️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot&logoColor=white)
+
+
+---
+
+### 🛢️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+
+---
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-black?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-black?logo=render&logoColor=white)
+
 
 ---
 
@@ -47,38 +72,13 @@
 - MySQL  
 
 ### Tools & Platforms  
-- Git & GitHub  
-- Docker  
+- Git & GitHub    
 - Postman  
 - Render Deployment  
 
 ---
 
-## 📌 Featured Projects  
 
-### 🚀 Huge – AI Integrated Insight Generator  
-AI-powered platform that generates meaningful insights from Excel/SQL data using LLM APIs.  
-
-🔹 Tech: React + Node.js + Python + MySQL + OpenAI/DeepSeek  
-🔹 Features: Chunk-wise AI insights, caching, filtering, reporting  
-
----
-
-### 🏫 Student Tool Kit  
-A personal toolkit web app for students with smart productivity tools.  
-
-🔹 Subscription-based access (₹10)  
-🔹 Built completely by me  
-
----
-
-### 💧 AI Water Quality Assessment  
-Predictive ML system for proactive water quality monitoring.  
-
-🔹 Streamlit + ML Models  
-🔹 Real-time prediction dashboard  
-
----
 
 ## 🌐 Connect With Me  
 
