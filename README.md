@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me  
 
 - 🔭 I’m currently working on **Full Stack + Android App Development**  
-- 🌱 Learning more about **AI Agents, Deep Learning, and System Design**  
 - ⚡ Interested in **Web Development, Android App Development, Travelling 😄**  
 - 🎯 Goal: To become a strong Software Engineer with AI expertise  
 
@@ -85,7 +84,7 @@
 - 🌍 Portfolio: https://manu-m-portfolio.onrender.com/  
 - 🐙 GitHub: https://github.com/manu-2023
 - 📫 Email: *mcmanu368@gmail.com*
-- 💼 LinkedIn: *https://www.linkedin.com/in/manu-m-manu/*
+- 💼 LinkedIn: https://www.linkedin.com/in/manu-m-manu/
 
 ---
 
