@@ -12,9 +12,10 @@
 
 ## 🧑‍💻 About Me  
 
-- 🔭 I’m currently working on **Full Stack + Android App Development**  
-- ⚡ Interested in **Web Development, Android App Development, Travelling 😄**  
-- 🎯 Goal: To become a strong Software Engineer with AI expertise  
+<!-- - 🔭 I’m currently working on **Full Stack + Android App Development** --> 
+- ⚡ Interested in **Web Development, Android App Development, Travelling 😄**
+<!-- - 🎯 Goal: To become a strong Software Engineer with AI expertise   --> 
+
 
 ---
 
