@@ -5,6 +5,7 @@
 🚀 Passionate about building real-world AI-integrated applications  
 
 🌐 Portfolio: [Check_my_portfolio](https://manu-m-portfolio.onrender.com/) 
+---
 📄 Resume: [Check_my_Resume](https://github.com/manu-2023/resume/blob/main/Manu_M_Resume.pdf)
 
 
