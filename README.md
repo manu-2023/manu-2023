@@ -55,37 +55,12 @@
 ![Render](https://img.shields.io/badge/Render-black?logo=render&logoColor=white)
 
 
----
 
-## 🛠️ Tech Stack  
-
-### Frontend  
-- React.js  
-- React Native  
-- HTML, CSS, JavaScript  
-
-### Backend  
-- Node.js  
-- Express.js  
-- REST APIs  
-
-### Database  
-- MongoDB  
-- MySQL  
-
-### Tools & Platforms  
-- Git & GitHub    
-- Postman  
-- Render Deployment  
-
----
 
 
 
 ## 🌐 Connect With Me  
 
-- 🌍 Portfolio: https://manu-m-portfolio.onrender.com/  
-- 🐙 GitHub: https://github.com/manu-2023
 - 📫 Email: *mcmanu368@gmail.com*
 - 💼 LinkedIn: https://www.linkedin.com/in/manu-m-manu/
 
